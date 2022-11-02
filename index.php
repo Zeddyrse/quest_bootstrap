@@ -53,33 +53,33 @@
                 <div class="card mt-5" style="width: 18rem;">
                         <img src="assets/PA1_rando-kayak.jpeg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
+                        <h5 class="card-title">Visit Components Lake</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <a href="#" class="btn btn-primary justify-content-center col-12">Read More</a>
                     </div>
                 </div>
                 <div class="card mt-5" style="width: 18rem;">
                         <img src="assets/cascade.jpeg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
+                        <h5 class="card-title">Facing Cascade Style Sheet</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <a href="#" class="btn btn-primary justify-content-center col-12">Read More</a>
                     </div>
                 </div>
                 <div class="card mt-5" style="width: 18rem;">
                         <img src="assets/Grand-Canyon.jpeg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
+                        <h5 class="card-title">Contemplate from inputs river</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <a href="#" class="btn btn-primary justify-content-center col-12">Read More</a>
                     </div>
                 </div>
                 <div class="card mt-5" style="width: 18rem;">
                         <img src="assets/field.jpeg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
+                        <h5 class="card-title">Enjoy Responsive Layout Land</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <a href="#" class="btn btn-primary justify-content-center col-12">Read More</a>
                     </div>
                 </div>
             </div>
